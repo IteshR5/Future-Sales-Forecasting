@@ -61,5 +61,3 @@ Implementing models like SARIMAX helps companies plan inventory and operations m
 
 ---
 
-## 🗂️ Folder Structure
-
