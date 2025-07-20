@@ -61,3 +61,29 @@ Implementing models like SARIMAX helps companies plan inventory and operations m
 
 ---
 
+## Contributing
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+
+2. Create a new branch:
+   
+  ```
+  git checkout -b feature/your-feature-name
+  ```
+
+3. Make your changes and commit them:
+
+  ```
+  git commit -m 'Add your feature description'
+  ```
+
+4. Push to the branch:
+  
+  ```
+  git push origin feature/your-feature-name
+  ```
+
+5. Open a pull request with a description of your changes.
+   
+**Thank you for choosing this project. Hoping that this project proves useful and delivers a seamless experience for your needs!**
